@@ -402,21 +402,22 @@ footer{
 
 .address h1{
     color: #ffffff;
-    font-size: 20px;
+    font-size: 15px;
 }
 .contact h1{
     color: #fffefe;
-    font-size: 20px;
+    font-size: 15px;
 }
 .contact a{
     text-decoration: none;
     color:white;
+    font-size: 15px;
 }
 /* social-icon-area style here */
 .social-icon-area{
     display: flex;
     width: 200px;
-    margin: 50px 250px 50px 350px;
+    margin: 50px 250px 50px 410px;
 }
 .social-icon-area img{
     margin: 10px;
